@@ -16,7 +16,7 @@ namespace exercicios_etec
                 switch (opcao)
                 {
                     case "A":
-                        Console.WriteLine("Sou o programa");
+                        Console.WriteLine("Bom dia, me chamo Maria Eduarda, sou aluna do curso de informatica, turma 1I3 e esse é o meu projeto");
                         break;
                     case "S":
                         calculaSoma();
@@ -179,7 +179,7 @@ namespace exercicios_etec
 
         static double digitaNumeroOrdenado(string ordem)
         {
-            return digitaNumero($"Digite o {ordem} número");
+            return digitaNumero($"Digite o {ordem} número ");
         }
 
 
