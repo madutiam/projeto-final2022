@@ -55,12 +55,12 @@ namespace exercicios_etec
         {
             Console.WriteLine("============================");
             Console.WriteLine("=           Menu           =");
-            Console.WriteLine("= S - Soma (+)             =");
-            Console.WriteLine("= B - Subtração (-)        =");
-            Console.WriteLine("= M - Multiplicação (x)    =");
-            Console.WriteLine("= D - Divisão (/)          =");
-            Console.WriteLine("= E - Exponenciação (¹²³)  =");
-            Console.WriteLine("= R - Radiciação (V)       =");
+            Console.WriteLine("= S - Soma                 =");
+            Console.WriteLine("= B - Subtração            =");
+            Console.WriteLine("= M - Multiplicação        =");
+            Console.WriteLine("= D - Divisão              =");
+            Console.WriteLine("= E - Exponenciação        =");
+            Console.WriteLine("= R - Radiciação           =");
             Console.WriteLine("============================");
             Console.WriteLine("= A - Sobre o programa     =");
             Console.WriteLine("= X - Sair                 =");
